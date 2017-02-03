@@ -5,8 +5,7 @@
   "cordova": {
     "id": "com.pylonproducts.wifiwizard",
     "platforms": [
-      "android",
-      "ios"
+      "android"
     ]
   },
   "repository": {
